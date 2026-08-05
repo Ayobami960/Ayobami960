@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/adetoye-kehinde-a2b914240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/fast_code_realworld"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-2EA5FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-2EA5FF?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
   <a href="mailto:adetoyedaniel2020@gmail.com"><img src="https://img.shields.io/badge/Email-2EA5FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -20,110 +20,57 @@
 
 ### 🧭 The Brand Story
 
-> I don't just write code — I run it through a system first.
+> I don't just write code — I build systems that solve real problems.
 
-Give me a problem and I'll go **deep**: model the data, map the request lifecycle, stress-test the edge cases. Then I go **fast**: ship it, cache it, scale it. That's the whole philosophy — *deep dive, fast pass in.*
+I'm a Software Engineer who enjoys transforming ideas into scalable, secure, and maintainable applications. Whether it's designing responsive user interfaces with React and Next.js or engineering robust backend services with Node.js and Express, I focus on writing clean, efficient code that delivers real business value.
 
-I got here building for the financial market — apps where a 200ms delay isn't a UX nitpick, it's money on the table. So I design like that's always true: clean architecture, RESTful/GraphQL APIs that don't buckle under load, and AI features (RAG pipelines, LLM integrations) that feel less like a chatbot bolted on and more like the app got smarter.
+My development process starts with understanding the problem, designing the right architecture, modeling the data, and building solutions that are reliable, performant, and easy to maintain. I enjoy creating reusable components, developing secure RESTful APIs, optimizing database performance, and applying software design principles that allow applications to grow with user needs.
 
-**The mission:** build applications so solid and so enjoyable that users stay — and so efficient that the business behind them actually profits from it.
+**The mission:** build applications that are fast, secure, scalable, and enjoyable to use while helping businesses operate more efficiently.
 
-Recruiters — you'll find a full-stack engineer who thinks in systems.
-Engineers — you'll find someone who reads the RFC *and* ships the PR.
+**Recruiters** — you'll find a Software Engineer who enjoys solving complex problems with clean architecture and modern technologies.
 
----
-
-### 🚀 Projects
-
-<table>
-<tr>
-<td width="100%">
-
-#### 🔹 Project One — *[Project Name]*
-<img src="PROJECT_1_IMAGE_URL_HERE" alt="Project 1 screenshot" width="100%" />
-
-**What it does:** *[One-line description of the problem this solves]*
-**Stack:** `React` `Node.js` `PostgreSQL` `Redis`
-**Highlights:** *[e.g. "Cut API latency 40% via caching + query optimization"]*
-
-🔗 [Live Demo](#) · [Source Code](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="100%">
-
-#### 🔹 Project Two — *[Project Name]*
-<img src="PROJECT_2_IMAGE_URL_HERE" alt="Project 2 screenshot" width="100%" />
-
-**What it does:** *[One-line description of the problem this solves]*
-**Stack:** `Next.js` `FastAPI` `MongoDB` `LLM/RAG`
-**Highlights:** *[e.g. "Semantic search across 10,000+ records using vector embeddings"]*
-
-🔗 [Live Demo](#) · [Source Code](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="100%">
-
-#### 🔹 Project Three — *[Project Name]*
-<img src="PROJECT_3_IMAGE_URL_HERE" alt="Project 3 screenshot" width="100%" />
-
-**What it does:** *[One-line description of the problem this solves]*
-**Stack:** `TypeScript` `Express.js` `MySQL` `Docker`
-**Highlights:** *[e.g. "Reduced production bugs 30% through TDD + Postman contract testing"]*
-
-🔗 [Live Demo](#) · [Source Code](#)
-
-</td>
-</tr>
-</table>
-
-<p align="center"><sub>Swap the image URLs, names, and links above with your real project details and screenshots.</sub></p>
+**Engineers** — you'll find someone who values readable code, reusable systems, thoughtful design, and continuous learning.
 
 ---
 
 ### 🛠️ Skill Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,redux&perline=7" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,fastapi,py,mongodb,postgres,mysql,redis&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,figma,linux,jest,cypress,postman&perline=9" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui&perline=8" /><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,python,mongodb,postgres,mysql&perline=8" /><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,jest,cypress,postman&perline=6" />
+
 </p>
 
-| Layer | Tools |
-|---|---|
-| **Front-end** | React.js · Next.js · TypeScript · Vue.js · Tailwind CSS · Redux · TanStack Query |
-| **Back-end** | Node.js · Express.js · REST · GraphQL · FastAPI · WebSockets · Microservices |
-| **Data** | MongoDB · PostgreSQL · MySQL · Redis |
-| **AI / ML** | OpenAI & Claude APIs · RAG Pipelines · Vector Embeddings |
-| **Testing** | Jest · Mocha/Chai · Postman · Cypress (E2E) · TDD |
-| **DevOps** | Docker · GitHub Actions (CI/CD) · Linux CLI |
+| **Layer** | **Tools** |
+| ---------- | --------- |
+| **Front-end** | React.js · Next.js · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Material UI · Shadcn UI |
+| **Back-end** | Node.js · Express.js · Django · REST APIs · GraphQL · WebSockets · Middleware Development · Microservices |
+| **Databases** | MongoDB · PostgreSQL · MySQL · Mongoose · Sequelize · Data Modeling · Query Optimization |
+| **Architecture** | Clean Architecture · SOLID Principles · MVC · Repository Pattern · Factory Pattern · Singleton Pattern · Observer Pattern · Domain-Driven Design · Event-Driven Architecture |
+| **Authentication & Security** | JWT · OAuth2 · Role-Based Access Control (RBAC) · Session Management · HTTPS/SSL · OWASP Security Best Practices |
+| **Testing** | Jest · Mocha · Chai · Supertest · Cypress · Postman |
+| **Development Tools** | Git · GitHub · GitLab · Linux CLI · Agile · Scrum |
 
 ---
 
 ### 📊 Dev Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayobami960&theme=github-compact&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
-</p>
-
-<p align="center"><sub>Replace <code>YOUR_GITHUB_USERNAME</code> in all four widget links above with your actual GitHub handle.</sub></p>
 
 ---
-
 ### 🤝 Let's Talk
 
 <p align="center">
@@ -133,3 +80,4 @@ Engineers — you'll find someone who reads the RFC *and* ships the PR.
 </p>
 
 <p align="center"><i>Deep dive. Fast pass in. Ship something worth using.</i></p>
+
