@@ -81,5 +81,3 @@ My development process starts with understanding the problem, designing the righ
 
 <p align="center"><i>Deep dive. Fast pass in. Ship something worth using.</i></p>
 
-
-https://drive.google.com/file/d/1kMtOadgDCXF_ti0TwQ1z5zlvos6hTsPf/view?usp=sharing
