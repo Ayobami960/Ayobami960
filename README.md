@@ -57,20 +57,6 @@ My development process starts with understanding the problem, designing the righ
 | **Development Tools** | Git · GitHub · GitLab · Linux CLI · Agile · Scrum |
 
 ---
-
-### 📊 Dev Activity
-
-<p align="center">
-  
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayobami960&theme=github-compact&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
-
----
 ### 🤝 Let's Talk
 
 <p align="center">
@@ -80,4 +66,6 @@ My development process starts with understanding the problem, designing the righ
 </p>
 
 <p align="center"><i>Deep dive. Fast pass in. Ship something worth using.</i></p>
+
+---
 
